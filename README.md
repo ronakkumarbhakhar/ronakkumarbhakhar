@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakkumarbhakhar&label=Profile%20views&color=0e75b6&style=flat" alt="ronakkumarbhakhar" /> </p>
 
-- 🔭 I’m currently working on [spotify](link)
+- 🔭 I’m currently working on [Spotify clone](link)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **ThreeJs & OpenCV**
 
 - 👨‍💻 All of my projects are available at [linkportfolio](linkportfolio)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rk8875636542@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences [](resume link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
