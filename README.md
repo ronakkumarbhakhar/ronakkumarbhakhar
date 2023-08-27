@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rk8875636542@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://github.com/ronakkumarbhakhar/ronakkumarbhakhar/tree/a30dfa158625a2402bd3031d958c2e7ddeaa0c7c)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1X66UWfx7Q6WUlbEaMlaNrzrZDrONPP96/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
