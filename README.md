@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **ThreeJs & OpenCV**
 
-- 👨‍💻 All of my projects are available at [linkportfolio](linkportfolio)
-
-- 📝 I regularly write articles on [link portfolio](link portfolio)
+- 👨‍💻 Check my portfolio [portfolio](https://ronakkumarbhakhar.github.io/Portfolio/)
 
 - 💬 Ask me about **DJango,React & Node**
 
 - 📫 How to reach me **rk8875636542@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1X66UWfx7Q6WUlbEaMlaNrzrZDrONPP96/view?usp=sharing)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1KvcHyLSEtmpLqABVa7uTAnAFflIF7UNf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
