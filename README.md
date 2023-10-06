@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DJango,React & Node**
 
-- 📫 How to reach me **rk8875636542@gmail.com**
+- 📫 How to reach me **ronakbhakhar0@gmail.com**
 
 - 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1KvcHyLSEtmpLqABVa7uTAnAFflIF7UNf/view?usp=drive_link)
 
